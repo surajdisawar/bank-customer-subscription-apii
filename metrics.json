@@ -1,0 +1,58 @@
+{
+  "accuracy": 87.88,
+  "precision": 48.12,
+  "recall": 45.94,
+  "f1": 47.0,
+  "matrix": [
+    [
+      7461,
+      524
+    ],
+    [
+      572,
+      486
+    ]
+  ],
+  "features": [
+    {
+      "name": "num__balance",
+      "value": 0.1242
+    },
+    {
+      "name": "num__age",
+      "value": 0.111
+    },
+    {
+      "name": "num__day",
+      "value": 0.0977
+    },
+    {
+      "name": "num__campaign",
+      "value": 0.0567
+    },
+    {
+      "name": "cat__poutcome_success",
+      "value": 0.055
+    },
+    {
+      "name": "num__pdays",
+      "value": 0.0529
+    },
+    {
+      "name": "cat__contact_unknown",
+      "value": 0.0433
+    },
+    {
+      "name": "cat__housing_no",
+      "value": 0.0266
+    },
+    {
+      "name": "cat__contact_cellular",
+      "value": 0.0258
+    },
+    {
+      "name": "num__previous",
+      "value": 0.0257
+    }
+  ]
+}
